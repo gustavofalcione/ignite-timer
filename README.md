@@ -14,7 +14,7 @@ O projeto conta com duas rotas/paginas. A primeira, com o timer e espaço para c
 
 # Tecnologias utilizadas
 ## Front end
-- HTML / CSS / JS / TypeScript
+- Styled-Components/TypeScript
 - ReactJS
 
 # Como executar o projeto
